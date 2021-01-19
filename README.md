@@ -7,7 +7,7 @@ If you wish to terminate Baby Yoda then you are a monster, but pressing the '+' 
 
 CONTROLS
 
--Ensure that EndlessGIF.py is in the same folder as BabyYoda.gif
+-Ensure that 'EndlessGIF.py' is in the same folder as 'Baby Yoda.gif'
 
 -Run program
 
