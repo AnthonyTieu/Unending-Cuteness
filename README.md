@@ -5,8 +5,6 @@ This program will produce an unclosable window of cuteness. Any attempt to click
 Forcing you to observe the adorableness forever.
 If you wish to terminate Baby Yoda then you are a monster, but pressing the '+' key or the '=' key should do the trick.
 
-Great for pranking teachers!
-
 CONTROLS
 
 -Run program
